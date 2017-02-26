@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484089614 source:c:\users\stefi\c++\shannon_fano_decrypt\main.cpp
+	<iostream>
+	<fstream>
+
